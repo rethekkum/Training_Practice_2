@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Training_Practice_2/1.0.0": {
+        "dependencies": {
+          "SectionA.TeamA": "1.0.0",
+          "SectionB.TeamB": "1.0.0"
+        },
+        "runtime": {
+          "Training_Practice_2.dll": {}
+        }
+      },
+      "SectionA.TeamA/1.0.0": {
+        "runtime": {
+          "SectionA.TeamA.dll": {}
+        }
+      },
+      "SectionB.TeamB/1.0.0": {
+        "runtime": {
+          "SectionB.TeamB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Training_Practice_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SectionA.TeamA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SectionB.TeamB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
